@@ -1,0 +1,78 @@
+{
+  "page_id": "5f78fc98d97d47d2aa219d181784619c",
+  "prompt": "Je veux vendre des maison à lyon je suis une agence imobilière. ImmoLyion. Fait moi un site complet",
+  "site_analysis": {
+    "type": "Agence Marketing",
+    "style": "Classique",
+    "industry": "Marketing",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar1",
+    "hero2",
+    "features1",
+    "footer2"
+  ],
+  "ai_content": {
+    "navbar1": {
+      "brandName": "ImmoLyon",
+      "navItems": [
+        "Accueil",
+        "Nos biens",
+        "Services",
+        "Contactez-nous"
+      ],
+      "ctaText": "Trouvez votre maison"
+    },
+    "hero2": {
+      "title": "Trouvez votre maison idéale à Lyon avec ImmoLyion",
+      "subtitle": "Nous rendons l'achat de maison simple et transparent, en vous accompagnant à chaque étape.",
+      "ctaText": "Commencez votre recherche",
+      "secondaryCtaText": "En savoir plus sur nous"
+    },
+    "features1": {
+      "sectionTitle": "Nos Services",
+      "sectionSubtitle": "ImmoLyion, votre partenaire pour une expérience immobilière sans stress",
+      "features": [
+        {
+          "title": "Sélection de propriétés de qualité",
+          "description": "Nous avons une sélection variée de propriétés de qualité dans Lyon pour répondre à tous vos besoins et préférences."
+        },
+        {
+          "title": "Service d'évaluation immobilière",
+          "description": "Bénéficiez de notre service d'évaluation immobilière pour connaître la juste valeur de votre bien et vendre au meilleur prix."
+        },
+        {
+          "title": "Accompagnement personnalisé",
+          "description": "Notre équipe d'experts immobiliers vous accompagne de A à Z dans votre projet d'achat ou de vente pour une expérience sans stress."
+        }
+      ]
+    },
+    "footer2": {
+      "brandName": "ImmoLyion",
+      "description": "Votre partenaire de confiance pour l'achat et la vente de maisons à Lyon.",
+      "links": {
+        "company": [
+          "À propos",
+          "Notre équipe",
+          "Carrières"
+        ],
+        "services": [
+          "Acheter une maison",
+          "Vendre une maison",
+          "Estimation immobilière"
+        ],
+        "support": [
+          "Contact",
+          "FAQ",
+          "Support"
+        ]
+      },
+      "contact": {
+        "email": "contact@immolyion.com",
+        "phone": "+33 4 78 00 00 00"
+      }
+    }
+  },
+  "created_at": 1752911946.214977
+}

@@ -1,0 +1,78 @@
+{
+  "page_id": "a81fef27c7024887b1e6cf9ade719d85",
+  "prompt": "Site association ASPA",
+  "site_analysis": {
+    "type": "Site Vitrine",
+    "style": "Classique",
+    "industry": "Généraliste",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar1",
+    "hero2",
+    "features1",
+    "footer2"
+  ],
+  "ai_content": {
+    "navbar1": {
+      "brandName": "ASPA Association",
+      "navItems": [
+        "Accueil",
+        "Qui sommes-nous",
+        "Nos activités",
+        "Contactez-nous"
+      ],
+      "ctaText": "Faire un don"
+    },
+    "hero2": {
+      "title": "Rejoignez l'ASPA pour changer le monde",
+      "subtitle": "Ensemble, nous pouvons faire une différence. Votre soutien nourrit nos initiatives sociales.",
+      "ctaText": "Devenez membre",
+      "secondaryCtaText": "Faire un don"
+    },
+    "features1": {
+      "sectionTitle": "Nos Services Clés",
+      "sectionSubtitle": "Découvrez ce qui nous rend uniques et accessibles à tous",
+      "features": [
+        {
+          "title": "Ateliers Educatifs",
+          "description": "Améliorez votre connaissance sur des sujets variés grâce à nos ateliers éducatifs ouverts à tous."
+        },
+        {
+          "title": "Programmes de Bénévolat",
+          "description": "Contribuez directement à notre cause et enrichissez votre expérience personnelle en rejoignant nos programmes de bénévolat."
+        },
+        {
+          "title": "Evénements Communautaires",
+          "description": "Rencontrez, échangez et créez des liens au sein de votre communauté lors de nos événements réguliers."
+        }
+      ]
+    },
+    "footer2": {
+      "brandName": "ASPA Association",
+      "description": "Dédiée à l'amélioration et à la préservation de la qualité de vie de tous.",
+      "links": {
+        "company": [
+          "Qui sommes-nous",
+          "Notre équipe",
+          "Nos actions"
+        ],
+        "services": [
+          "Nos projets",
+          "Partenariats",
+          "Adhésion"
+        ],
+        "support": [
+          "Contactez-nous",
+          "FAQ",
+          "Donations"
+        ]
+      },
+      "contact": {
+        "email": "contact@aspa-association.com",
+        "phone": "+33 1 23 45 67 89"
+      }
+    }
+  },
+  "created_at": 1752912557.188251
+}

@@ -1,0 +1,340 @@
+# ========================
+# 🤖 AI Website Generator
+# ========================
+
+# ================
+# 🔐 SECRETS & ENV
+# ================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.staging
+*.key
+*.pem
+*.p12
+config.json
+secrets.json
+
+# OpenAI & API Keys
+openai.key
+api-keys.txt
+credentials.json
+
+# ================
+# 📦 DEPENDENCIES
+# ================
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# ================
+# 🏗️ BUILD OUTPUT
+# ================
+
+# React/Vite Build
+dist/
+build/
+.next/
+out/
+.nuxt/
+.vuepress/dist
+.cache/
+
+# Python Build
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ================
+# 🐳 DOCKER
+# ================
+.dockerignore
+docker-compose.override.yml
+docker-compose.local.yml
+.docker/
+
+# ================
+# 📝 LOGS & TEMP
+# ================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+.grunt
+
+# Temporary folders
+tmp/
+temp/
+.tmp/
+.temp/
+
+# ================
+# 💾 DATABASES
+# ================
+*.db
+*.sqlite
+*.sqlite3
+database.db
+db.sqlite3
+*.db-journal
+
+# ================
+# 🖥️ OS & EDITORS
+# ================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ================
+# 🛠️ IDE & EDITORS
+# ================
+
+# VSCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+
+# JetBrains IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+tags
+[._]*.un~
+
+# ================
+# 🎨 ASSETS & MEDIA
+# ================
+
+# Large files
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# High-res images (keep small ones for UI)
+*-original.*
+*-raw.*
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# ================
+# 🧪 TESTING
+# ================
+coverage/
+.nyc_output/
+jest_results/
+test-results/
+playwright-report/
+test-results.xml
+coverage.lcov
+
+# ================
+# 📊 ANALYTICS & MONITORING
+# ================
+.sentry/
+analytics/
+stats/
+
+# ================
+# 🚀 DEPLOYMENT
+# ================
+.vercel/
+.netlify/
+.firebase/
+.serverless/
+
+# ================
+# 📦 GENERATED FILES
+# ================
+
+# AI Generated Pages (pour développement seulement)
+# Décommentez si vous ne voulez pas versionner les pages générées
+# frontend/src/pages/generated/
+# backend/generated_pages/
+
+# Auto-generated documentation
+docs/build/
+site/
+
+# ================
+# 🔄 CACHE & MISC
+# ================
+
+# ESLint cache
+.eslintcache
+
+# Prettier cache
+.prettiercache
+
+# Stylelint cache
+.stylelintcache
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
+tmp/
+temp/
+
+# ================
+# 🎯 PROJECT SPECIFIC
+# ================
+
+# Backup files
+*.backup
+*.bak
+*.orig
+*.rej
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z

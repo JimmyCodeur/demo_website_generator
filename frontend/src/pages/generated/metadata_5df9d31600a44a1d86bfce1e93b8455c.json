@@ -1,0 +1,77 @@
+{
+  "page_id": "5df9d31600a44a1d86bfce1e93b8455c",
+  "prompt": "un site d'association poker à montpellier. Poker Fun 34. Mon mail poker@gmail.com, Je souhaite faire venir le plus de monde, format tournoi MTT",
+  "site_analysis": {
+    "type": "Site Vitrine",
+    "style": "Classique",
+    "industry": "Généraliste",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar1",
+    "hero2",
+    "features1",
+    "footer2"
+  ],
+  "ai_content": {
+    "navbar1": {
+      "brandName": "Poker Fun 34",
+      "navItems": [
+        "Accueil",
+        "Tournois",
+        "Adhésion",
+        "Contact"
+      ],
+      "ctaText": "Rejoignez-nous"
+    },
+    "hero2": {
+      "title": "Devenez le Maître du Poker à Montpellier",
+      "subtitle": "Rejoignez Poker Fun 34, participez à des tournois MTT et améliorez vos compétences avec des passionnés du poker.",
+      "ctaText": "Inscrivez-vous maintenant",
+      "secondaryCtaText": "En savoir plus"
+    },
+    "features1": {
+      "sectionTitle": "Rejoignez Poker Fun 34 et découvrez nos services!",
+      "sectionSubtitle": "Vivez votre passion du poker dans une ambiance conviviale et compétitive.",
+      "features": [
+        {
+          "title": "Tournois MTT réguliers",
+          "description": "Participez à nos compétitions MTT régulières et mesurez-vous aux meilleurs joueurs de la région."
+        },
+        {
+          "title": "Apprentissage et perfectionnement",
+          "description": "Apprenez les bases ou améliorez votre jeu grâce à nos sessions de coaching et nos ressources pédagogiques."
+        },
+        {
+          "title": "Communauté amicale et dynamique",
+          "description": "Rencontrez et échangez avec d'autres passionnés de poker dans une atmosphère amicale et conviviale."
+        }
+      ]
+    },
+    "footer2": {
+      "brandName": "Poker Fun 34",
+      "description": "Association de poker à Montpellier qui organise des tournois MTT conviviaux.",
+      "links": {
+        "company": [
+          "À propos",
+          "Notre équipe",
+          "Adhésion"
+        ],
+        "events": [
+          "Prochain tournoi",
+          "Résultats",
+          "Classements"
+        ],
+        "support": [
+          "Contact",
+          "Règles du poker",
+          "FAQ"
+        ]
+      },
+      "contact": {
+        "email": "poker@gmail.com"
+      }
+    }
+  },
+  "created_at": 1752912242.638603
+}

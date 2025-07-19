@@ -1,0 +1,78 @@
+{
+  "page_id": "b3fe2e732325474fb289f72988443ffb",
+  "prompt": "Genere moi un site de voiture de vente de voiture de colletion à montpellier",
+  "site_analysis": {
+    "type": "E-commerce",
+    "style": "Classique",
+    "industry": "Commerce",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar4",
+    "hero2",
+    "features1",
+    "footer2"
+  ],
+  "ai_content": {
+    "navbar4": {
+      "brandName": "Collection Auto 34",
+      "navItems": [
+        "Accueil",
+        "Nos Voitures",
+        "A propos",
+        "Contact"
+      ],
+      "ctaText": "Acheter maintenant"
+    },
+    "hero2": {
+      "title": "Trouvez la voiture de collection de vos rêves à Montpellier",
+      "subtitle": "Des véhicules rares, en parfait état, prêts à enrichir votre collection",
+      "ctaText": "Explorez notre collection",
+      "secondaryCtaText": "En savoir plus"
+    },
+    "features1": {
+      "sectionTitle": "Nos Services Exclusifs",
+      "sectionSubtitle": "Découvrez ce qui fait de nous le meilleur choix pour votre passion des voitures de collection",
+      "features": [
+        {
+          "title": "Sélection Rigoureuse",
+          "description": "Chaque voiture est minutieusement sélectionnée pour sa qualité et son authenticité, vous garantissant l'achat le plus fiable."
+        },
+        {
+          "title": "Livraison à Domicile",
+          "description": "Profitez de notre service de livraison sécurisé et fiable, directement à votre porte, où que vous soyez à Montpellier."
+        },
+        {
+          "title": "Service Après-Vente Dédié",
+          "description": "Nous sommes à vos côtés même après l'achat, offrant un support et des conseils d'experts pour l'entretien de votre véhicule de collection."
+        }
+      ]
+    },
+    "footer2": {
+      "brandName": "Montpellier Vintage Cars",
+      "description": "Spécialiste de la vente de voitures de collection à Montpellier depuis 1995",
+      "links": {
+        "company": [
+          "À propos",
+          "Notre équipe",
+          "Carrières"
+        ],
+        "services": [
+          "Nos voitures",
+          "Entretien de collection",
+          "Restauration de véhicules"
+        ],
+        "support": [
+          "Contact",
+          "FAQ",
+          "Support"
+        ]
+      },
+      "contact": {
+        "email": "contact@montpellier-vintagecars.com",
+        "phone": "+33 4 67 12 34 56"
+      }
+    }
+  },
+  "created_at": 1752911644.518521
+}

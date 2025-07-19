@@ -1,0 +1,78 @@
+{
+  "page_id": "990af5ad8db14c4ab56eb368c9fb56d9",
+  "prompt": "JE veux faire un site landing page de voiture de collection à Paris",
+  "site_analysis": {
+    "type": "Site Vitrine",
+    "style": "Classique",
+    "industry": "Généraliste",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar3",
+    "hero1",
+    "features2",
+    "footer1"
+  ],
+  "ai_content": {
+    "navbar3": {
+      "brandName": "Paris Vintage Cars",
+      "navItems": [
+        "Accueil",
+        "Nos Collections",
+        "Histoire",
+        "Contactez-nous"
+      ],
+      "ctaText": "Réservez Maintenant"
+    },
+    "hero1": {
+      "title": "Trouvez la Voiture de Collection de Vos Rêves",
+      "subtitle": "Parcourez notre catalogue exclusif de voitures de collection à Paris et dénichez le joyau qui vous manque.",
+      "ctaText": "Voir le catalogue",
+      "secondaryCtaText": "En savoir plus"
+    },
+    "features2": {
+      "sectionTitle": "Découvrez nos Services Exclusifs",
+      "sectionSubtitle": "Offrez-vous une expérience unique avec nos voitures de collection à Paris",
+      "features": [
+        {
+          "title": "Location de Véhicules de Collection",
+          "description": "Vivez une expérience de conduite inoubliable avec nos voitures de collection parfaitement entretenues."
+        },
+        {
+          "title": "Visites Guidées",
+          "description": "Découvrez Paris à bord de nos véhicules vintage, avec des itinéraires personnalisés qui évoquent l'histoire de la ville."
+        },
+        {
+          "title": "Services de Conciergerie",
+          "description": "Bénéficiez d'un service de conciergerie dédié pour assurer une expérience sans souci et totalement personnalisée."
+        }
+      ]
+    },
+    "footer1": {
+      "brandName": "Paris Vintage Cars",
+      "description": "Spécialiste des voitures de collection à Paris depuis 1990",
+      "links": {
+        "company": [
+          "À propos de nous",
+          "Notre équipe",
+          "Rejoignez-nous"
+        ],
+        "services": [
+          "Nos voitures",
+          "Restauration",
+          "Estimation"
+        ],
+        "support": [
+          "Contactez-nous",
+          "FAQ",
+          "Assistance"
+        ]
+      },
+      "contact": {
+        "email": "contact@parisvintagecars.com",
+        "phone": "+33 1 23 45 67 89"
+      }
+    }
+  },
+  "created_at": 1752910996.21078
+}
