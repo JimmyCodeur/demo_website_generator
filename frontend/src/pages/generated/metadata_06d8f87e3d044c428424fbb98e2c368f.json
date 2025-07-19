@@ -1,0 +1,78 @@
+{
+  "page_id": "06d8f87e3d044c428424fbb98e2c368f",
+  "prompt": "Cree moi un site web de voiture d'occasion. je suis le commerce VoitureAuto34 à Montpellier.",
+  "site_analysis": {
+    "type": "Site Vitrine",
+    "style": "Classique",
+    "industry": "Généraliste",
+    "target": "Grand public"
+  },
+  "selected_components": [
+    "navbar4",
+    "hero3",
+    "features1",
+    "footer2"
+  ],
+  "ai_content": {
+    "navbar4": {
+      "brandName": "VoitureAuto34",
+      "navItems": [
+        "Accueil",
+        "Nos Voitures",
+        "A Propos",
+        "Contact"
+      ],
+      "ctaText": "Prenez RDV"
+    },
+    "hero3": {
+      "title": "Trouvez votre voiture d'occasion idéale chez VoitureAuto34",
+      "subtitle": "Voitures contrôlées et garanties, prix compétitifs et service client de qualité à Montpellier",
+      "ctaText": "Parcourez nos véhicules",
+      "secondaryCtaText": "Prenez rendez-vous"
+    },
+    "features1": {
+      "sectionTitle": "Nos Services Uniques",
+      "sectionSubtitle": "Découvrez pourquoi VoitureAuto34 est votre meilleur choix pour les voitures d'occasion à Montpellier",
+      "features": [
+        {
+          "title": "Grand choix de véhicules",
+          "description": "Explorez une vaste sélection de véhicules d'occasion de qualité, adaptés à tous les budgets et préférences"
+        },
+        {
+          "title": "Inspection complète",
+          "description": "Chaque véhicule est soigneusement inspecté par nos experts pour garantir votre sécurité et votre satisfaction"
+        },
+        {
+          "title": "Service client dédié",
+          "description": "Notre équipe d'experts est à votre service pour répondre à vos questions et vous aider à trouver la voiture de vos rêves"
+        }
+      ]
+    },
+    "footer2": {
+      "brandName": "VoitureAuto34",
+      "description": "Votre partenaire de confiance pour l'achat de voitures d'occasion à Montpellier.",
+      "links": {
+        "company": [
+          "À propos",
+          "Notre équipe",
+          "Carrières"
+        ],
+        "services": [
+          "Recherche de voiture",
+          "Vente de voiture",
+          "Evaluation de voiture"
+        ],
+        "support": [
+          "Contact",
+          "FAQ",
+          "Support"
+        ]
+      },
+      "contact": {
+        "email": "contact@voitureauto34.com",
+        "phone": "+33 4 67 12 34 56"
+      }
+    }
+  },
+  "created_at": 1752914645.750103
+}

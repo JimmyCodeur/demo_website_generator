@@ -7,6 +7,14 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?logo=openai)](https://openai.com/)
 
+# 🖼️ Aperçu du Projet
+
+## Interface Principale
+![Interface principale](screen_demo/screen1.png)
+
+## Génération avec IA
+![Génération IA](screen_demo/screen2.png)
+
 ## 🎯 Vue d'ensemble
 
 Ce projet utilise **deux IA distinctes** pour créer automatiquement des landing pages personnalisées :
@@ -32,6 +40,7 @@ Ce projet utilise **deux IA distinctes** pour créer automatiquement des landing
 - **Frontend** : React + Vite + TailwindCSS
 - **Backend** : FastAPI + Python
 - **IA** : OpenAI GPT
+- **Basse de donée** : Firebase
 - **Containerisation** : Docker + Docker Compose
 - **Icons** : Lucide React
 
